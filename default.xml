@@ -28,11 +28,11 @@
   <project path="development" name="CyanogenMod/android_development" remote="github" />
   <project path="device/common" name="device/common" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
-  <project path="device/htc/passion" name="android_device_htc_passion" remote="drewis-github" />
-  <project path="device/htc/passion-common" name="android_device_htc_passion-common" remote="drewis-github" />
-  <project path="device/malata/smb-common" name="android_device_malata_smb-common" remote="drewis-github" />
-  <project path="device/malata/smb_a1002" name="android_device_malata_smb_a1002" remote="drewis-github" />
-  <project path="device/motorola/olympus" name="Atrix-Dev-Team/android_device_motorola_olympus" remote="github" revision="master" />
+  <project path="device/htc/passion" name="android_device_htc_passion" remote="drewis-github" revision="drew-gb"/>
+  <project path="device/htc/passion-common" name="android_device_htc_passion-common" remote="drewis-github" revision="drew-gb" />
+  <project path="device/malata/smb-common" name="android_device_malata_smb-common" remote="drewis-github" revision="drew-gb"/>
+  <project path="device/malata/smb_a1002" name="android_device_malata_smb_a1002" remote="drewis-github" revision="drew-gb" />
+  <project path="device/motorola/olympus" name="android_device_motorola_olympus" remote="drewis-github" revision="drew-gb" />
   <project path="device/sample" name="device/sample" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" remote="github" />
@@ -179,7 +179,7 @@
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" remote="github" />
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" remote="github" />
-  <project path="packages/apps/Music3" name="rockonnggl" remote="drewis-github" revision="master"/>
+  <project path="packages/apps/Music3" name="rockonnggl" remote="drewis-github" revision="drew-gb"/>
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/Pacman" name="CyanogenMod/android_packages_apps_Pacman" remote="github" />
@@ -221,7 +221,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" />
 
-  <project path="vendor/cyanogen" name="android_vendor_cyanogen" remote="drewis-github" />
+  <project path="vendor/cyanogen" name="android_vendor_cyanogen" remote="drewis-github" revision="drew-gb"/>
   <project path="vendor/htc/passion" name="android_vendor_htc_passion" remote="drewis-github" revision="master" />
   <project path="vendor/motorola/olympus" name="android_vendor_motorola_olympus" remote="drewis-github" revision="master" />
   <project path="vendor/malata/smb_a1002" name="android_vendor_malata_smb_a1002" remote="drewis-github" revision="master" />
@@ -233,6 +233,6 @@
   <project path="vendor/tmobile/themes/Cyanbread" name="themes-platform-vendor-tmobile-themes-Cyanbread" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="themes" revision="refs/heads/master" />
 
-  <project path="android" name="android" remote="drewis-github" revision="drew-gingerbread" />
+  <project path="android" name="android" remote="drewis-github" revision="drew-gb-mods" />
 
 </manifest>
