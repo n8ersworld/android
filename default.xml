@@ -223,7 +223,7 @@
 
   <project path="vendor/cyanogen" name="android_vendor_cyanogen" remote="drewis-github" revision="drew-cyanogen" />
   <project path="vendor/htc/passion" name="android_vendor_htc_passion" remote="drewis-github" revision="master" />
-  <project path="vendor/motorola/olympus" name="android_vendor_motorola_olympus" remote="drewis-github" revision="master"
+  <project path="vendor/motorola/olympus" name="android_vendor_motorola_olympus" remote="drewis-github" revision="master" />
   <project path="vendor/malata/smb_a1002" name="android_vendor_malata_smb_a1002" remote="drewis-github" revision="refs/heads/master" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" remote="github" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
