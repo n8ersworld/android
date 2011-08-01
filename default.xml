@@ -12,7 +12,7 @@
            fetch="git://github.com/tmobile" />
 
   <remote  name="drewis-github"
-           fetch="git@github.com:drewis/" />
+           fetch="git://github.com/drewis/" />
 
   <default revision="gingerbread"
            remote="korg" />
