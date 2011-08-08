@@ -29,7 +29,7 @@
   <project path="device/htc/passion-common" name="android_device_htc_passion-common" remote="drewis-github" revision="drew-gb" />
   <project path="device/malata/smb-common" name="android_device_malata_smb-common" remote="drewis-github" revision="drew-gb"/>
   <project path="device/malata/smb_a1002" name="android_device_malata_smb_a1002" remote="drewis-github" revision="drew-gb" />
-  <project path="device/motorola/olympus" name="android_device_motorola_olympus" remote="drewis-github" revision="drew-gb" />
+  <project path="device/motorola/olympus" name="android_device_motorola_olympus" remote="drewis-github" revision="master" />
   <project path="device/sample" name="device/sample" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" remote="github" />
@@ -176,7 +176,7 @@
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" remote="github" />
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" remote="github" />
-  <project path="packages/apps/Music3" name="rockonnggl" remote="drewis-github" revision="drew-gb"/>
+  <project path="packages/apps/Music3" name="rockonnggl" remote="drewis-github" revision="master"/>
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/Pacman" name="CyanogenMod/android_packages_apps_Pacman" remote="github" />
@@ -193,7 +193,7 @@
   <project path="packages/apps/Usb" name="CyanogenMod/android_packages_apps_Usb" remote="github" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" remote="github" />
   <project path="packages/experimental" name="platform/packages/experimental" />
-  <project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" remote="github" />
+  <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="drewis-github" revision="drew-gb" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" remote="github" />
   <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" remote="github" />
@@ -233,3 +233,4 @@
   <project path="android" name="android" remote="drewis-github" revision="drew-gb-ssh" />
 
 </manifest>
+
