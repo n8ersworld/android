@@ -254,7 +254,7 @@
 
   <project path="vendor/cyanogen" name="drewis/android_vendor_cyanogen" />
   <project path="vendor/htc/passion" name="drewis/android_vendor_htc_passion" />
-  <project path="vendor/malata/smb_a1002" name="drewis/android_vendor_malata_smb_a1002">
+  <project path="vendor/malata/smb_a1002" name="drewis/android_vendor_malata_smb_a1002" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
