@@ -239,6 +239,10 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
+  <project path="device/htc/bravo" name="ics-passion-dev/android_device_htc_bravo" revision="refs/heads/ics-starter" />
+  <project path="device/htc/common" name="ics-passion-dev/android_device_htc_common" revision="refs/heads/ics-starter" />
+  <project path="device/htc/passion-common" name="ics-passion-dev/android_device_htc_passion-common" revision="refs/heads/ics-starter" />
+  <project path="device/htc/passion" name="ics-passion-dev/android_device_htc_passion" revision="refs/heads/ics-starter" />
 
   <project path="android" name="CyanogenMod/android" />
 </manifest>
