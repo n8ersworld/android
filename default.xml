@@ -244,5 +244,5 @@
   <project path="device/htc/passion-common" name="ics-passion-dev/android_device_htc_passion-common" revision="refs/heads/ics-starter" />
   <project path="device/htc/passion" name="ics-passion-dev/android_device_htc_passion" revision="refs/heads/ics-starter" />
 
-  <project path="android" name="CyanogenMod/android" />
+  <project path="android" name="ics-passion-dev/android" />
 </manifest>
