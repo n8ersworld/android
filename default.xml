@@ -251,6 +251,7 @@
   <project path="device/htc/common" name="ics-passion-dev/android_device_htc_common" revision="refs/heads/ics-starter" />
   <project path="device/htc/passion-common" name="ics-passion-dev/android_device_htc_passion-common" revision="refs/heads/ics-starter" />
   <project path="device/htc/passion" name="ics-passion-dev/android_device_htc_passion" revision="refs/heads/ics-starter" />
+  <project path="packages/apps/CMSettings" name="Pedlar/android_packages_apps_CMSettings" />
 
   <project path="android" name="ics-passion-dev/android" />
 </manifest>
